@@ -10,12 +10,13 @@ Requirements
 Useful Tasks
 ------------
 
-* Run Tests
-* Run development console
-* Check Available rake tasks
+* Run Tests `rake spec`
+* Run development console `rake console`
+* Check Available rake tasks `rake help`
 
 
-## Contributing
+Contributing
+------------
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
